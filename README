@@ -1,3 +1,7 @@
+
+PRE-REQUIRES:
+sudo apt-get g++-multilib gcc-multilib
+
 1) Run a terminal and type ./compile.sh
 2) Place .vdf and .so files inside addons folder
 3) Restart server (or use plugin_load addons/sample_plugin) and profit.
