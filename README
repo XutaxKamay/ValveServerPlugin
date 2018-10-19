@@ -1,6 +1,6 @@
 
 PRE-REQUIRES:
-sudo apt-get g++-multilib gcc-multilib
+sudo apt-get install g++-multilib gcc-multilib
 
 1) Run a terminal and type ./compile.sh
 2) Place .vdf and .so files inside addons folder
