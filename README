@@ -1,5 +1,6 @@
 
 PRE-REQUIRES:
+steam-runtime for compiling: http://media.steampowered.com/client/runtime/steam-runtime-sdk_latest.tar.xz
 sudo apt-get install g++-multilib gcc-multilib
 
 1) Run a terminal and type ./compile.sh
